@@ -1,0 +1,28 @@
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #0074d9;
+    border-radius:  25%;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 400px;
+  }
+
+.animation-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    height: 500px;
+    width: 500px;
+  }
+  
+  
